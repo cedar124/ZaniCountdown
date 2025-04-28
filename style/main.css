@@ -38,7 +38,7 @@ body, html {
     position: absolute;
     pointer-events: none;
     mix-blend-mode: multiply;
-    background: rgba(161, 44, 199, 0.31);
+    background: rgba(0, 0, 0, 0.5);
 }
 
 .container {
@@ -81,7 +81,7 @@ body, html {
 @media only screen and (max-device-width: 480px) {
 .time-block span {
   display: block;
-  font-size: 50px;
+  font-size: 45px;
   font-weight: bold;
 }
 }
@@ -157,7 +157,7 @@ footer {
     text-align: center;
     font-size: 1em;
     color: #E5E5E5;
-    font-family: "Courier New", Courier, monospace;
+    font-family: "Anuphan";
     font-weight: 300;
     margin-bottom: 2%;
 }

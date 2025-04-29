@@ -1,5 +1,5 @@
 // Set the timestamp we're counting down to
-var countDownDate = new Date("2025-04-29T11:00:00+08:00").getTime();
+var countDownDate = new Date("2025-04-29T10:15:00+08:00").getTime();
 //var countDownDate = new Date("2025-04-28T15:30:00+08:00").getTime();
 var daysElement = document.getElementById('days');
 var hoursElement = document.getElementById('hours');
